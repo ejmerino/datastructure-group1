@@ -23,15 +23,23 @@ public:
 	Operations();
 	~Operations();
 	/**
-	* @brief Function to add two numbers
+	* @brief Funcion que multiplica num1*den2 y suma num2*den1
 	*
 	* @return the add
 	*/
 	T fraccion_sup(Data<T>&);	
 	/**
-	* @brief Function to add two numbers
+	* @brief Funcion que suma los denominadores
 	*
 	* @return the add
 	*/
 	T fraccion_inf(Data<T>&);
+	/**
+	* @brief Funcion que realiza la division
+	*
+	* @return the add
+	*/
+	T fraccion_result(Data<T>&);
+
+
 };

@@ -48,3 +48,9 @@ template <typename T>
 T Operations<T>::fraccion_inf(Data<T>& calculation) {
 	return (calculation.get_den1() +calculation.get_den2());
 }
+
+
+template <typename T>
+T Operations<T>::fraccion_result(Data<T>& calculation) {
+	return (((calculation.get_num1() * calculation.get_den2()) + (calculation.get_num2() * calculation.get_den1())) / (calculation.get_den1() + calculation.get_den2()));
+}

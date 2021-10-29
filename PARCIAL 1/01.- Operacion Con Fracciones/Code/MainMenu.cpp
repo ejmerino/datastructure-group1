@@ -44,11 +44,15 @@ int main() {
 		_data.to_string();
 
 		cout << "El resultado es: " << _operations.fraccion_sup(_data) << "/"
-			<< _operations.fraccion_inf(_data) << endl;
+			<< _operations.fraccion_inf(_data) << " = " << _operations.fraccion_result (_data) << endl;
+
+
+
 
 		cout << endl << "Desea realizar una nueva operacion? (S/N) "<<endl;
 		cin >> option;
 		
+		system("cls");
 
 	} while (option == 's' or option == 'S');
 

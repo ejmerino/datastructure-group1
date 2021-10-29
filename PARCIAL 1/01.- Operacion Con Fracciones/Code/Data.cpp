@@ -87,4 +87,4 @@ void Data<T>::to_string() {
 	cout << "Los valores asignados por el usuario son: " << endl << "Numerador 1: " <<
 		Data<T>::get_num1() << endl << "Denominador 1: " << Data<T>::get_den1() << endl <<
 		"Numerador 2: " << Data<T>::get_num2() << endl<<"Denominador 2: " << Data<T>::get_den2()<<endl;
-}
+}   
