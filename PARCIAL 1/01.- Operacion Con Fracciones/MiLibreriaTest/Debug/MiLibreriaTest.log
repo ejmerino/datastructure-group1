@@ -1,0 +1,8 @@
+﻿  MiLibreriaTest.cpp
+C:\Users\Jhoel PC-X\ESTRUCTURA DE DATOS\datastructure-group1\PARCIAL 1\01.- Operacion Con Fracciones\MiLibreriaTest\MiLibreriaTest.cpp(30,2): error C2059: error de sintaxis: '}'
+C:\Users\Jhoel PC-X\ESTRUCTURA DE DATOS\datastructure-group1\PARCIAL 1\01.- Operacion Con Fracciones\MiLibreriaTest\MiLibreriaTest.cpp(30,2): error C2143: error de sintaxis: falta ';' delante de '}'
+C:\Users\Jhoel PC-X\ESTRUCTURA DE DATOS\datastructure-group1\PARCIAL 1\01.- Operacion Con Fracciones\MiLibreriaTest\MiLibreriaTest.cpp(16,23): error C2955: 'Operations': el uso de clase plantilla requiere una lista de argumentos de plantilla
+C:\Users\Jhoel PC-X\ESTRUCTURA DE DATOS\datastructure-group1\PARCIAL 1\01.- Operacion Con Fracciones\Code\Operations.h(21): message : vea la declaración de 'Operations'
+C:\Users\Jhoel PC-X\ESTRUCTURA DE DATOS\datastructure-group1\PARCIAL 1\01.- Operacion Con Fracciones\MiLibreriaTest\MiLibreriaTest.cpp(25,10): error C2059: error de sintaxis: '.'
+C:\Users\Jhoel PC-X\ESTRUCTURA DE DATOS\datastructure-group1\PARCIAL 1\01.- Operacion Con Fracciones\MiLibreriaTest\MiLibreriaTest.cpp(31,1): error C2059: error de sintaxis: '}'
+C:\Users\Jhoel PC-X\ESTRUCTURA DE DATOS\datastructure-group1\PARCIAL 1\01.- Operacion Con Fracciones\MiLibreriaTest\MiLibreriaTest.cpp(31,1): error C2143: error de sintaxis: falta ';' delante de '}'
