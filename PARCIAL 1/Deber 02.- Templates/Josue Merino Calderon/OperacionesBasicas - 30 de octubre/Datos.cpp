@@ -1,3 +1,12 @@
+/* Universidad de las Fuerzas Armadas - ESPE
+   Software
+   Operaciones Basicas - 30 de octubre
+   Autor:
+   -Ednan Josue Merino Calderon
+   Fecha de creación: 30/10/2021
+   Fecha de modificación: 01/11/2021
+*/
+
 #include<iostream>
 #include<stdlib.h>
 #include "Datos.h"
