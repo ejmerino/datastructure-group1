@@ -1,3 +1,12 @@
+/* Universidad de las Fuerzas Armadas - ESPE
+   Software
+   Areas Geometricas - 2 de noviembre
+   Autor:
+   -Ednan Josue Merino Calderon
+   Fecha de creación: 02/07/2021
+   Fecha de modificación: 02/07/2021
+*/
+
 #include <iostream>
 #include <string>
 #include "Datos.h"
@@ -6,7 +15,6 @@ using namespace std;
 
 template <typename J>
 Datos<J>::Datos() {
-	//J Datos<J>::lado1 = 0;
 
 }
 

@@ -1,3 +1,12 @@
+/* Universidad de las Fuerzas Armadas - ESPE
+   Software
+   Areas Geometricas - 2 de noviembre
+   Autor:
+   -Ednan Josue Merino Calderon
+   Fecha de creación: 02/07/2021
+   Fecha de modificación: 02/07/2021
+*/
+
 #include "Datos.h"
 #include "Datos.cpp"
 #include "Operaciones.h"
