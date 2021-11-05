@@ -1,0 +1,5 @@
+﻿  App.cpp
+C:\Users\JOSUE\Desktop\Deber 03 .- Operadores Sobrecargados\App.cpp(22,14): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\JOSUE\Desktop\Deber 03 .- Operadores Sobrecargados\App.cpp(28,14): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\JOSUE\Desktop\Deber 03 .- Operadores Sobrecargados\App.cpp(34,14): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  Deber 03 .- Operadores Sobrecargados.vcxproj -> C:\Users\JOSUE\Desktop\Deber 03 .- Operadores Sobrecargados\Debug\Deber 03 .- Operadores Sobrecargados.exe
