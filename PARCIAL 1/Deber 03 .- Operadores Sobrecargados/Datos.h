@@ -19,9 +19,18 @@ private:
 	float b,e,h;
 	double c,f,i;	
 public:
+	/*
+	* Constructor for Datos
+	*/
 	Datos();
+	/*
+	* Destructor for Datos
+	*/
 	~Datos();
 
+	/*
+	* Setters and Getters
+	*/
 	void set_a(int);
 	int get_a();
 
