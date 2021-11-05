@@ -19,6 +19,6 @@ public:
 	~Operaciones();
 	int operator++(int);
 	int operator--(int);
-	int operator>>(int);
-	double operator>>(double);
+	int operator<<(int);
+	double operator<<(double);
 };

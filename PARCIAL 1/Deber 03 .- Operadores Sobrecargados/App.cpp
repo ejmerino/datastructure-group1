@@ -48,8 +48,8 @@ int main() {
 			cout << "Ingrese un numero de tipo double: ";
 			cin >> b;
 			dat.set_b(b);
-			cout << endl << "Imprime Dato tipo Int: " << op.operator>>(dat.get_a()) << endl;
-			cout << endl << "Imprime Dato tipo Double: " << op.operator>>(dat.get_b()) << endl << endl;
+			cout << endl << "Imprime Dato tipo Int: " << (op.operator<<(dat.get_a())) << endl;
+			cout << endl << "Imprime Dato tipo Double: " << (op.operator<<(dat.get_b())) << endl << endl;
 			break;
 		default:
 			cout << "Ingrese una opcion correcta!" << endl;

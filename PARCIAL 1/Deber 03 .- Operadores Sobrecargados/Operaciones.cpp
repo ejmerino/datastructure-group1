@@ -26,10 +26,10 @@ int Operaciones::operator--(int a) {
 	return (a - 1);
 }
 
-int Operaciones::operator>>(int a) {
+int Operaciones::operator<<(int a) {
 	return a;
 }
 
-double Operaciones::operator>>(double b) {
+double Operaciones::operator<<(double b) {
 	return b;
 }
