@@ -1,9 +1,0 @@
-﻿  App.cpp
-C:\Users\JOSUE\Desktop\Sobrecarga de Operadores\App.cpp(34,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\JOSUE\Desktop\Sobrecarga de Operadores\App.cpp(37,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-  Operaciones.cpp
-  Validation.cpp
-  Valores.cpp
-  Generando código...
-C:\Users\JOSUE\Desktop\Sobrecarga de Operadores\Validation.cpp(29): warning C4172: devolución de dirección de la variable local o temporal: dato
-  Sobrecarga de Operadores.vcxproj -> C:\Users\JOSUE\Desktop\Sobrecarga de Operadores\Debug\Sobrecarga de Operadores.exe
