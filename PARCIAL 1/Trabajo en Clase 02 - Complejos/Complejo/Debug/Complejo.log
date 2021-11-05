@@ -1,0 +1,4 @@
+﻿  Main.cpp
+F:\NUEVO SEMESTRE\ESTRUCTURA DE DATOS-7167\Complejo2\Complejo\Complejo\Main.cpp(21,12): warning C4101: 'y': variable local sin referencia
+F:\NUEVO SEMESTRE\ESTRUCTURA DE DATOS-7167\Complejo2\Complejo\Complejo\Main.cpp(21,9): warning C4101: 'x': variable local sin referencia
+  Complejo.vcxproj -> F:\NUEVO SEMESTRE\ESTRUCTURA DE DATOS-7167\Complejo2\Complejo\Debug\Complejo.exe
