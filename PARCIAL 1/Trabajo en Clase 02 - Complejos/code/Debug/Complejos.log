@@ -1,0 +1,6 @@
+﻿  Complejo.cpp
+  Main.cpp
+C:\Users\JOSUE\Desktop\Complejos\Main.cpp(21,9): warning C4101: 'y': variable local sin referencia
+C:\Users\JOSUE\Desktop\Complejos\Main.cpp(21,6): warning C4101: 'x': variable local sin referencia
+  Generando código...
+  Complejos.vcxproj -> C:\Users\JOSUE\Desktop\Complejos\Debug\Complejos.exe
